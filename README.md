@@ -132,19 +132,19 @@ Key API endpoints used:
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main.png) <!-- Replace with actual path -->
+![Main Dashboard](main.png)
 
 ### Current Weather Display
-![Current Weather](screenshots/current.png) <!-- Replace with actual path -->
+![Current Weather](current.png)
 
 ### Hourly Forecast
-![Hourly Forecast](screenshots/hourly.png) <!-- Replace with actual path -->
+![Hourly Forecast](hourly.png)
 
 ### 7-Day Forecast
-![7-Day Forecast](screenshots/forecast.png) <!-- Replace with actual path -->
+![7-Day Forecast](forecast.png)
 
 ### Temperature Graph
-![Temperature Graph](screenshots/graph.png) <!-- Replace with actual path -->
+![Temperature Graph](graph.png)
 
 ## Contributing
 We welcome contributions! Please follow these steps:
